@@ -1,0 +1,97 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+
+/* Custom default button */
+h2{
+  color: black;
+  padding-top: 10px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;  
+}
+
+h6{
+    color: black;
+    padding-top: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;  
+}
+
+h4{
+  color: black;
+  padding-top: 10px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;  
+}
+
+/*Use this class when you want your content to be hidden*/
+.BeforeScroll
+{
+  height: 100px; /*Whatever you want*/
+  width: 100%; /*Whatever you want*/
+  display: none;
+}
+
+
+/*Use this class when you want your content to be shown after some scroll*/
+.AfterScroll
+{
+  height: 100px; /*Whatever you want*/
+  width: 100%; /*Whatever you want*/
+  display: block;
+}
+
+  /*Outages*/
+  .outage-link{
+    text-align: center;
+  }
+  
+  .all-charts{
+    background:grey;
+    color:#fff;
+    padding: 20px;
+    margin:20px 0;
+    margin-right: 120px;
+    margin-left: 120px;
+    box-sizing:border-box;
+  }
+  
+  .new-charts{
+    text-align: center;
+  }
+  
+  .chart1{
+    display: inline-block;
+    vertical-align: middle;
+    padding:15px;
+  }
+  
+  .chart2{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .old-charts{
+    text-align: center;
+  }
+  
+  .chart3{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 15px;
+  }
+  
+  .chart4{
+    display: inline-block;
+    vertical-align: middle;
+  }

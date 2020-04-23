@@ -1,0 +1,36 @@
+.sidebar{
+    width: 1000px;
+    color: white;
+    padding-top: 10%;
+    margin: 100px auto;
+    margin-top:25px;
+    margin-bottom: 25px;
+    transition: 1s;
+    text-align: center;
+}
+
+.sidebar:hover{
+    transform: scale(1.2);
+    box-shadow: 5px 5px 5px black;
+    z-index:2;
+}
+
+
+  .boxed {
+      padding-top: 10%;
+      padding-left: 12.5%;
+      border: 1px solid green ;
+
+  }
+
+  h2{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;  
+  }
+
+  yo{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;  
+  }
